@@ -1,0 +1,17 @@
+[
+    {
+        "short_name": "NBA",
+        "name": "National Basketball Association",
+        "id": "49vjxm8xt4q6odg",
+        "url": "https:stake.ac/sports/basketball/usa/nba",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 50, "drought": 72, "drought better": 600},
+                            "2": {"rain": 11, "rain better": 50, "drought": 67, "drought better": 600},
+                            "3": {"rain": 11, "rain better": 50, "drought": 74, "drought better": 600}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true , "score": 4}
+    }
+]

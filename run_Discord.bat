@@ -1,0 +1,2 @@
+python Discord.py
+pause
